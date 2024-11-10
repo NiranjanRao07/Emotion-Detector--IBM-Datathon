@@ -43,5 +43,4 @@ Output of user's voice data.<br>
 * ### [Prajay V K](https://github.com/PrajayVK)
 * ### [Shafiudeen Kameel](https://github.com/ShafiudeenKameel)
 * ### [Ram Selvaraj](https://github.com/ramselvaraj)
-* ### [Noel Jacob Abraham](https://github.com/NoelJacobAbraham)
 * ### [Niranjan Rao S S](https://github.com/NiranjanRao07)
